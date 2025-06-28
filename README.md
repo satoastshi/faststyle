@@ -6,7 +6,7 @@ With that being said, this system has helped me write good looking web pages in 
 
 FastStyle provides a declarative API for defining styles with automatic CSS generation, style composition, and usage tracking in pure Python.
 
-Well, maybe "pure" is not a useful term here. It actually has JavaScript in it (which perhaps could be said about all things at this point).
+Well, maybe "pure" is not a useful term here. We use PascalCase in functions and we junk up modules with folding regions a lot. Pythonistas may no likey Pascal Case functions (or all the folding regions in the comments). Oh well.
 
 Anyways, enjoy!
 
